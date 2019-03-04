@@ -1,5 +1,9 @@
 # vue_crash_todolist
 
+## The Big Picture
+
+![vue-cli-the-big-picture.png](vue-cli-the-big-picture.png)
+
 ## Project setup
 ```
 npm install
