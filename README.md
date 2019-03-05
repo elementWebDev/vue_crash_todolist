@@ -4,6 +4,7 @@
 Brad Traversy
 
 [![YouTube Video](notes/1-reusable-components.png)](https://youtu.be/Wy9q22isx3U)
+[video link --^](https://youtu.be/Wy9q22isx3U)
 
 ![Max- the big picture](notes/vue-cli-the-big-picture.png)
 
